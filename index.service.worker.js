@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1747026921|16293848727';
+const CACHE_VERSION = '1747027203|16575757081';
 /** @type {string} */
 const CACHE_PREFIX = 'rpg-tour-par-tou-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
